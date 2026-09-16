@@ -1,0 +1,29 @@
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Python/Django
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+venv/
+env/
+.env
+
+# Media
+backend/media/
+!backend/media/.gitkeep
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Misc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

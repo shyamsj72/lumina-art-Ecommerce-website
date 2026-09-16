@@ -1,0 +1,1370 @@
+{
+  "categories": [
+    {
+      "category": "Name Boards",
+      "slug": "name-boards",
+      "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+      "icon": "Layers",
+      "accentColor": "#DCF763",
+      "products": [
+        {
+          "name": "Live-Edge Wooden Name Board (തെക്കേമഠം)",
+          "image": "/nameboard1.png"
+        },
+        {
+          "name": "Black Acrylic Family Name Board (സ്നേഹനിലയം)",
+          "image": "/nameboard2.png"
+        },
+        {
+          "name": "Two-Tone Teak & Om Wooden Board (ആദിശിവം)",
+          "image": "/nameboard3.png"
+        },
+        {
+          "name": "Lord Krishna Gokulam Gold Inlay Board (Gokulam)",
+          "image": "/nameboard4.png"
+        },
+        {
+          "name": "Golden Brass House Crest (Baith Al Nihmath)",
+          "image": "/nameboard5.png"
+        },
+        {
+          "name": "Rustic Wooden Christ & Dove Plaque (കല്ലടയിൽ)",
+          "image": "/nameboard6.png"
+        },
+        {
+          "name": "Cottage Silhouette Wooden Board (അനിൽ കെ സജി)",
+          "image": "/nameboard7.png"
+        },
+        {
+          "name": "Trishul Motif Live-Edge Plaque (ദേവികൃപ)",
+          "image": "/nameboard8.png"
+        },
+        {
+          "name": "Gabled Cottage Wood Sign (Sree Chithira)",
+          "image": "/nameboard9.png"
+        },
+        {
+          "name": "Botanical Rose Floral Plate (Mohabbat)",
+          "image": "/nameboard10.png"
+        },
+        {
+          "name": "Traditional Kerala Roof Board (Shifana Manzil)",
+          "image": "/nameboard11.png"
+        },
+        {
+          "name": "Glossy Gold Arabic Calligraphy (ما شاء الله)",
+          "image": "/nameboard12.png"
+        },
+        {
+          "name": "Royal Oval Walnut & Gold Crest (കുടുംബം)",
+          "image": "/kudumbam_royal_oval_1789380588818.png"
+        },
+        {
+          "name": "Architectural Dual-Layer Acrylic Sign",
+          "image": "/nameboard14.png"
+        }
+      ],
+      "variants": [
+        {
+          "thickness": "2mm",
+          "price": 549
+        },
+        {
+          "thickness": "4mm",
+          "price": 850
+        }
+      ]
+    },
+    {
+      "category": "CNC Jali Cutting",
+      "slug": "cnc-jali-cutting",
+      "description": "Architectural CNC jali screens & decorative lattice wall partitions custom-machined for residences, temples, and luxury interiors.",
+      "icon": "Grid",
+      "accentColor": "#FBBF24",
+      "products": [
+        {
+          "name": "CNC Jali Architectural Panel - Design 1",
+          "image": "/product1.png"
+        },
+        {
+          "name": "Geometric CNC Lattice Screen - Design 2",
+          "image": "/product2.png"
+        },
+        {
+          "name": "Floral Motif CNC Partition - Design 3",
+          "image": "/product3.png"
+        }
+      ],
+      "variants": [
+        {
+          "thickness": "6mm",
+          "price": 1250
+        },
+        {
+          "thickness": "12mm",
+          "price": 2200
+        }
+      ]
+    },
+    {
+      "category": "Laser Cutting",
+      "slug": "laser-cutting",
+      "description": "Micro-precision laser cut acrylic keychains, gift boxes, industrial templates, and artistic silhouette keepsakes.",
+      "icon": "Scissors",
+      "accentColor": "#38BDF8",
+      "products": [
+        {
+          "name": "Custom Engraved Acrylic Keychain",
+          "image": "/keychain.png"
+        },
+        {
+          "name": "Laser-Cut Wooden Keepsake Box",
+          "image": "/box.png"
+        },
+        {
+          "name": "Precision Laser Cut Desk Emblem",
+          "image": "/product4.png"
+        },
+        {
+          "name": "Decorative Acrylic Mandala Cutout",
+          "image": "/product5.png"
+        }
+      ],
+      "variants": [
+        {
+          "thickness": "3mm",
+          "price": 299
+        },
+        {
+          "thickness": "5mm",
+          "price": 499
+        }
+      ]
+    },
+    {
+      "category": "Wood & Acrylic Craft",
+      "slug": "wood-acrylic-craft",
+      "description": "Handcrafted blend of rich organic hardwoods and glossy cast acrylics for bespoke tabletop organizers, awards, and artistic wall decor.",
+      "icon": "Sparkles",
+      "accentColor": "#FB923C",
+      "products": [
+        {
+          "name": "Dual-Layer Acrylic & Teak Desk Organizer",
+          "image": "/product6.png"
+        },
+        {
+          "name": "Minimalist Silhouette Wall Accent Clock",
+          "image": "/product7.png"
+        },
+        {
+          "name": "Custom Silhouette Tabletop Memento",
+          "image": "/product8.png"
+        }
+      ],
+      "variants": [
+        {
+          "thickness": "4mm",
+          "price": 699
+        },
+        {
+          "thickness": "8mm",
+          "price": 1150
+        }
+      ]
+    },
+    {
+      "category": "LED Signage",
+      "slug": "led-signage",
+      "description": "High-impact neon flex and backlit 3D acrylic signage engineered for storefronts, cafes, modern studios, and exhibition booths.",
+      "icon": "Zap",
+      "accentColor": "#A855F7",
+      "products": [
+        {
+          "name": "99 Names of Allah Concentric Halo LED Sign (Asma-ul-Husna)",
+          "image": "/led_names_allah_1789384084474.jpg"
+        },
+        {
+          "name": "Ayat al-Kursi Dual-Tone Illuminated Crescent LED Plaque",
+          "image": "/led_ayat_kursi_1789384103815.jpg"
+        },
+        {
+          "name": "Neon-Flex Glow Custom Signage",
+          "image": "/sign.png"
+        },
+        {
+          "name": "Backlit 3D Acrylic Boutique Lettering",
+          "image": "/product9.png"
+        },
+        {
+          "name": "Edge-Lit Acrylic Floating Logo Plaque",
+          "image": "/product10.png"
+        }
+      ],
+      "variants": [
+        {
+          "thickness": "12\" Diameter (Warm Gold 12V)",
+          "price": 1899
+        },
+        {
+          "thickness": "18\" Diameter (Warm Gold 12V)",
+          "price": 2999
+        },
+        {
+          "thickness": "24\" Diameter (Dual Halo Glow)",
+          "price": 4499
+        }
+      ]
+    },
+    {
+      "category": "Acrylic Clocks",
+      "slug": "acrylic-clocks",
+      "description": "Precision laser-crafted dual-tone acrylic wall clocks featuring artistic optical silhouettes, embossed brushed gold Roman numerals, and silent sweep quartz movements.",
+      "icon": "Clock",
+      "accentColor": "#F59E0B",
+      "products": [
+        {
+          "name": "Monochrome Silhouette Dual-Tone Acrylic Clock (Roman Gold)",
+          "image": "/acrylic_wall_clock_1789385759022.jpg",
+          "keywords": [
+            "gift your favorite person",
+            "gift yout favaorite person",
+            "favorite person",
+            "gift",
+            "acrylic clock",
+            "wall clock",
+            "silhouette clock",
+            "anniversary gift",
+            "birthday gift",
+            "couple gift",
+            "personalized gift"
+          ]
+        },
+        {
+          "name": "Hexagonal Floating Clear Acrylic Silhouette Clock (Rose Gold)",
+          "image": "/acrylic_hex_clock_1789386467214.jpg",
+          "keywords": [
+            "gift your favorite person",
+            "gift yout favaorite person",
+            "favorite person",
+            "gift",
+            "acrylic clock",
+            "hexagonal clock",
+            "rose gold clock",
+            "floating clock",
+            "luxury gift",
+            "anniversary gift",
+            "personalized gift"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "thickness": "12\" (30cm) Silent Quartz",
+          "price": 1299
+        },
+        {
+          "thickness": "16\" (40cm) Silent Quartz",
+          "price": 1899
+        },
+        {
+          "thickness": "20\" (50cm) Silent Quartz",
+          "price": 2699
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "name-boards-1",
+      "name": "Live-Edge Wooden Name Board (തെക്കേമഠം)",
+      "category": "Name Boards",
+      "categorySlug": "name-boards",
+      "image": "/nameboard1.png",
+      "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+      "variants": [
+        {
+          "thickness": "2mm",
+          "price": 549
+        },
+        {
+          "thickness": "4mm",
+          "price": 850
+        }
+      ],
+      "minPrice": 549,
+      "maxPrice": 850,
+      "isFeatured": true,
+      "isBestSeller": false,
+      "badge": "Featured Choice",
+      "badgeType": "lime",
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "name boards",
+        "entrance board",
+        "housewarming gift",
+        "family gift",
+        "custom nameplate",
+        "wooden board",
+        "acrylic sign"
+      ]
+    },
+    {
+      "id": "name-boards-2",
+      "name": "Black Acrylic Family Name Board (സ്നേഹനിലയം)",
+      "category": "Name Boards",
+      "categorySlug": "name-boards",
+      "image": "/nameboard2.png",
+      "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+      "variants": [
+        {
+          "thickness": "2mm",
+          "price": 549
+        },
+        {
+          "thickness": "4mm",
+          "price": 850
+        }
+      ],
+      "minPrice": 549,
+      "maxPrice": 850,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "name boards",
+        "entrance board",
+        "housewarming gift",
+        "family gift",
+        "custom nameplate",
+        "wooden board",
+        "acrylic sign"
+      ]
+    },
+    {
+      "id": "name-boards-3",
+      "name": "Two-Tone Teak & Om Wooden Board (ആദിശിവം)",
+      "category": "Name Boards",
+      "categorySlug": "name-boards",
+      "image": "/nameboard3.png",
+      "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+      "variants": [
+        {
+          "thickness": "2mm",
+          "price": 549
+        },
+        {
+          "thickness": "4mm",
+          "price": 850
+        }
+      ],
+      "minPrice": 549,
+      "maxPrice": 850,
+      "isFeatured": false,
+      "isBestSeller": true,
+      "badge": "Best Seller",
+      "badgeType": "orange",
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "name boards",
+        "entrance board",
+        "housewarming gift",
+        "family gift",
+        "custom nameplate",
+        "wooden board",
+        "acrylic sign"
+      ]
+    },
+    {
+      "id": "name-boards-4",
+      "name": "Lord Krishna Gokulam Gold Inlay Board (Gokulam)",
+      "category": "Name Boards",
+      "categorySlug": "name-boards",
+      "image": "/nameboard4.png",
+      "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+      "variants": [
+        {
+          "thickness": "2mm",
+          "price": 549
+        },
+        {
+          "thickness": "4mm",
+          "price": 850
+        }
+      ],
+      "minPrice": 549,
+      "maxPrice": 850,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "name boards",
+        "entrance board",
+        "housewarming gift",
+        "family gift",
+        "custom nameplate",
+        "wooden board",
+        "acrylic sign"
+      ]
+    },
+    {
+      "id": "name-boards-5",
+      "name": "Golden Brass House Crest (Baith Al Nihmath)",
+      "category": "Name Boards",
+      "categorySlug": "name-boards",
+      "image": "/nameboard5.png",
+      "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+      "variants": [
+        {
+          "thickness": "2mm",
+          "price": 549
+        },
+        {
+          "thickness": "4mm",
+          "price": 850
+        }
+      ],
+      "minPrice": 549,
+      "maxPrice": 850,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "name boards",
+        "entrance board",
+        "housewarming gift",
+        "family gift",
+        "custom nameplate",
+        "wooden board",
+        "acrylic sign"
+      ]
+    },
+    {
+      "id": "name-boards-6",
+      "name": "Rustic Wooden Christ & Dove Plaque (കല്ലടയിൽ)",
+      "category": "Name Boards",
+      "categorySlug": "name-boards",
+      "image": "/nameboard6.png",
+      "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+      "variants": [
+        {
+          "thickness": "2mm",
+          "price": 549
+        },
+        {
+          "thickness": "4mm",
+          "price": 850
+        }
+      ],
+      "minPrice": 549,
+      "maxPrice": 850,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "name boards",
+        "entrance board",
+        "housewarming gift",
+        "family gift",
+        "custom nameplate",
+        "wooden board",
+        "acrylic sign"
+      ]
+    },
+    {
+      "id": "name-boards-7",
+      "name": "Cottage Silhouette Wooden Board (അനിൽ കെ സജി)",
+      "category": "Name Boards",
+      "categorySlug": "name-boards",
+      "image": "/nameboard7.png",
+      "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+      "variants": [
+        {
+          "thickness": "2mm",
+          "price": 549
+        },
+        {
+          "thickness": "4mm",
+          "price": 850
+        }
+      ],
+      "minPrice": 549,
+      "maxPrice": 850,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "name boards",
+        "entrance board",
+        "housewarming gift",
+        "family gift",
+        "custom nameplate",
+        "wooden board",
+        "acrylic sign"
+      ]
+    },
+    {
+      "id": "name-boards-8",
+      "name": "Trishul Motif Live-Edge Plaque (ദേവികൃപ)",
+      "category": "Name Boards",
+      "categorySlug": "name-boards",
+      "image": "/nameboard8.png",
+      "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+      "variants": [
+        {
+          "thickness": "2mm",
+          "price": 549
+        },
+        {
+          "thickness": "4mm",
+          "price": 850
+        }
+      ],
+      "minPrice": 549,
+      "maxPrice": 850,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "name boards",
+        "entrance board",
+        "housewarming gift",
+        "family gift",
+        "custom nameplate",
+        "wooden board",
+        "acrylic sign"
+      ]
+    },
+    {
+      "id": "name-boards-9",
+      "name": "Gabled Cottage Wood Sign (Sree Chithira)",
+      "category": "Name Boards",
+      "categorySlug": "name-boards",
+      "image": "/nameboard9.png",
+      "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+      "variants": [
+        {
+          "thickness": "2mm",
+          "price": 549
+        },
+        {
+          "thickness": "4mm",
+          "price": 850
+        }
+      ],
+      "minPrice": 549,
+      "maxPrice": 850,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "name boards",
+        "entrance board",
+        "housewarming gift",
+        "family gift",
+        "custom nameplate",
+        "wooden board",
+        "acrylic sign"
+      ]
+    },
+    {
+      "id": "name-boards-10",
+      "name": "Botanical Rose Floral Plate (Mohabbat)",
+      "category": "Name Boards",
+      "categorySlug": "name-boards",
+      "image": "/nameboard10.png",
+      "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+      "variants": [
+        {
+          "thickness": "2mm",
+          "price": 549
+        },
+        {
+          "thickness": "4mm",
+          "price": 850
+        }
+      ],
+      "minPrice": 549,
+      "maxPrice": 850,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "name boards",
+        "entrance board",
+        "housewarming gift",
+        "family gift",
+        "custom nameplate",
+        "wooden board",
+        "acrylic sign"
+      ]
+    },
+    {
+      "id": "name-boards-11",
+      "name": "Traditional Kerala Roof Board (Shifana Manzil)",
+      "category": "Name Boards",
+      "categorySlug": "name-boards",
+      "image": "/nameboard11.png",
+      "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+      "variants": [
+        {
+          "thickness": "2mm",
+          "price": 549
+        },
+        {
+          "thickness": "4mm",
+          "price": 850
+        }
+      ],
+      "minPrice": 549,
+      "maxPrice": 850,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "name boards",
+        "entrance board",
+        "housewarming gift",
+        "family gift",
+        "custom nameplate",
+        "wooden board",
+        "acrylic sign"
+      ]
+    },
+    {
+      "id": "name-boards-12",
+      "name": "Glossy Gold Arabic Calligraphy (ما شاء الله)",
+      "category": "Name Boards",
+      "categorySlug": "name-boards",
+      "image": "/nameboard12.png",
+      "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+      "variants": [
+        {
+          "thickness": "2mm",
+          "price": 549
+        },
+        {
+          "thickness": "4mm",
+          "price": 850
+        }
+      ],
+      "minPrice": 549,
+      "maxPrice": 850,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "name boards",
+        "entrance board",
+        "housewarming gift",
+        "family gift",
+        "custom nameplate",
+        "wooden board",
+        "acrylic sign"
+      ]
+    },
+    {
+      "id": "name-boards-13",
+      "name": "Royal Oval Walnut & Gold Crest (കുടുംബം)",
+      "category": "Name Boards",
+      "categorySlug": "name-boards",
+      "image": "/kudumbam_royal_oval_1789380588818.png",
+      "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+      "variants": [
+        {
+          "thickness": "2mm",
+          "price": 549
+        },
+        {
+          "thickness": "4mm",
+          "price": 850
+        }
+      ],
+      "minPrice": 549,
+      "maxPrice": 850,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "name boards",
+        "entrance board",
+        "housewarming gift",
+        "family gift",
+        "custom nameplate",
+        "wooden board",
+        "acrylic sign"
+      ]
+    },
+    {
+      "id": "name-boards-14",
+      "name": "Architectural Dual-Layer Acrylic Sign",
+      "category": "Name Boards",
+      "categorySlug": "name-boards",
+      "image": "/nameboard14.png",
+      "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+      "variants": [
+        {
+          "thickness": "2mm",
+          "price": 549
+        },
+        {
+          "thickness": "4mm",
+          "price": 850
+        }
+      ],
+      "minPrice": 549,
+      "maxPrice": 850,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "name boards",
+        "entrance board",
+        "housewarming gift",
+        "family gift",
+        "custom nameplate",
+        "wooden board",
+        "acrylic sign"
+      ]
+    },
+    {
+      "id": "cnc-jali-cutting-1",
+      "name": "CNC Jali Architectural Panel - Design 1",
+      "category": "CNC Jali Cutting",
+      "categorySlug": "cnc-jali-cutting",
+      "image": "/product1.png",
+      "description": "Architectural CNC jali screens & decorative lattice wall partitions custom-machined for residences, temples, and luxury interiors.",
+      "variants": [
+        {
+          "thickness": "6mm",
+          "price": 1250
+        },
+        {
+          "thickness": "12mm",
+          "price": 2200
+        }
+      ],
+      "minPrice": 1250,
+      "maxPrice": 2200,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "cnc jali",
+        "lattice screen",
+        "partition panel",
+        "interior screen",
+        "architectural decor"
+      ]
+    },
+    {
+      "id": "cnc-jali-cutting-2",
+      "name": "Geometric CNC Lattice Screen - Design 2",
+      "category": "CNC Jali Cutting",
+      "categorySlug": "cnc-jali-cutting",
+      "image": "/product2.png",
+      "description": "Architectural CNC jali screens & decorative lattice wall partitions custom-machined for residences, temples, and luxury interiors.",
+      "variants": [
+        {
+          "thickness": "6mm",
+          "price": 1250
+        },
+        {
+          "thickness": "12mm",
+          "price": 2200
+        }
+      ],
+      "minPrice": 1250,
+      "maxPrice": 2200,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "cnc jali",
+        "lattice screen",
+        "partition panel",
+        "interior screen",
+        "architectural decor"
+      ]
+    },
+    {
+      "id": "cnc-jali-cutting-3",
+      "name": "Floral Motif CNC Partition - Design 3",
+      "category": "CNC Jali Cutting",
+      "categorySlug": "cnc-jali-cutting",
+      "image": "/product3.png",
+      "description": "Architectural CNC jali screens & decorative lattice wall partitions custom-machined for residences, temples, and luxury interiors.",
+      "variants": [
+        {
+          "thickness": "6mm",
+          "price": 1250
+        },
+        {
+          "thickness": "12mm",
+          "price": 2200
+        }
+      ],
+      "minPrice": 1250,
+      "maxPrice": 2200,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "cnc jali",
+        "lattice screen",
+        "partition panel",
+        "interior screen",
+        "architectural decor"
+      ]
+    },
+    {
+      "id": "laser-cutting-1",
+      "name": "Custom Engraved Acrylic Keychain",
+      "category": "Laser Cutting",
+      "categorySlug": "laser-cutting",
+      "image": "/keychain.png",
+      "description": "Micro-precision laser cut acrylic keychains, gift boxes, industrial templates, and artistic silhouette keepsakes.",
+      "variants": [
+        {
+          "thickness": "3mm",
+          "price": 299
+        },
+        {
+          "thickness": "5mm",
+          "price": 499
+        }
+      ],
+      "minPrice": 299,
+      "maxPrice": 499,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "laser cutting",
+        "keepsake box",
+        "custom keychain",
+        "engraved gift",
+        "desk emblem"
+      ]
+    },
+    {
+      "id": "laser-cutting-2",
+      "name": "Laser-Cut Wooden Keepsake Box",
+      "category": "Laser Cutting",
+      "categorySlug": "laser-cutting",
+      "image": "/box.png",
+      "description": "Micro-precision laser cut acrylic keychains, gift boxes, industrial templates, and artistic silhouette keepsakes.",
+      "variants": [
+        {
+          "thickness": "3mm",
+          "price": 299
+        },
+        {
+          "thickness": "5mm",
+          "price": 499
+        }
+      ],
+      "minPrice": 299,
+      "maxPrice": 499,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "badge": "Popular Craft",
+      "badgeType": "lime",
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "laser cutting",
+        "keepsake box",
+        "custom keychain",
+        "engraved gift",
+        "desk emblem"
+      ]
+    },
+    {
+      "id": "laser-cutting-3",
+      "name": "Precision Laser Cut Desk Emblem",
+      "category": "Laser Cutting",
+      "categorySlug": "laser-cutting",
+      "image": "/product4.png",
+      "description": "Micro-precision laser cut acrylic keychains, gift boxes, industrial templates, and artistic silhouette keepsakes.",
+      "variants": [
+        {
+          "thickness": "3mm",
+          "price": 299
+        },
+        {
+          "thickness": "5mm",
+          "price": 499
+        }
+      ],
+      "minPrice": 299,
+      "maxPrice": 499,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "laser cutting",
+        "keepsake box",
+        "custom keychain",
+        "engraved gift",
+        "desk emblem"
+      ]
+    },
+    {
+      "id": "laser-cutting-4",
+      "name": "Decorative Acrylic Mandala Cutout",
+      "category": "Laser Cutting",
+      "categorySlug": "laser-cutting",
+      "image": "/product5.png",
+      "description": "Micro-precision laser cut acrylic keychains, gift boxes, industrial templates, and artistic silhouette keepsakes.",
+      "variants": [
+        {
+          "thickness": "3mm",
+          "price": 299
+        },
+        {
+          "thickness": "5mm",
+          "price": 499
+        }
+      ],
+      "minPrice": 299,
+      "maxPrice": 499,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "laser cutting",
+        "keepsake box",
+        "custom keychain",
+        "engraved gift",
+        "desk emblem"
+      ]
+    },
+    {
+      "id": "wood-acrylic-craft-1",
+      "name": "Dual-Layer Acrylic & Teak Desk Organizer",
+      "category": "Wood & Acrylic Craft",
+      "categorySlug": "wood-acrylic-craft",
+      "image": "/product6.png",
+      "description": "Handcrafted blend of rich organic hardwoods and glossy cast acrylics for bespoke tabletop organizers, awards, and artistic wall decor.",
+      "variants": [
+        {
+          "thickness": "4mm",
+          "price": 699
+        },
+        {
+          "thickness": "8mm",
+          "price": 1150
+        }
+      ],
+      "minPrice": 699,
+      "maxPrice": 1150,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "wood craft",
+        "tabletop memento",
+        "desk organizer",
+        "anniversary gift",
+        "personalized gift"
+      ]
+    },
+    {
+      "id": "wood-acrylic-craft-2",
+      "name": "Minimalist Silhouette Wall Accent Clock",
+      "category": "Wood & Acrylic Craft",
+      "categorySlug": "wood-acrylic-craft",
+      "image": "/product7.png",
+      "description": "Handcrafted blend of rich organic hardwoods and glossy cast acrylics for bespoke tabletop organizers, awards, and artistic wall decor.",
+      "variants": [
+        {
+          "thickness": "4mm",
+          "price": 699
+        },
+        {
+          "thickness": "8mm",
+          "price": 1150
+        }
+      ],
+      "minPrice": 699,
+      "maxPrice": 1150,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "wood craft",
+        "tabletop memento",
+        "desk organizer",
+        "anniversary gift",
+        "personalized gift"
+      ]
+    },
+    {
+      "id": "wood-acrylic-craft-3",
+      "name": "Custom Silhouette Tabletop Memento",
+      "category": "Wood & Acrylic Craft",
+      "categorySlug": "wood-acrylic-craft",
+      "image": "/product8.png",
+      "description": "Handcrafted blend of rich organic hardwoods and glossy cast acrylics for bespoke tabletop organizers, awards, and artistic wall decor.",
+      "variants": [
+        {
+          "thickness": "4mm",
+          "price": 699
+        },
+        {
+          "thickness": "8mm",
+          "price": 1150
+        }
+      ],
+      "minPrice": 699,
+      "maxPrice": 1150,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "wood craft",
+        "tabletop memento",
+        "desk organizer",
+        "anniversary gift",
+        "personalized gift"
+      ]
+    },
+    {
+      "id": "led-signage-1",
+      "name": "99 Names of Allah Concentric Halo LED Sign (Asma-ul-Husna)",
+      "category": "LED Signage",
+      "categorySlug": "led-signage",
+      "image": "/led_names_allah_1789384084474.jpg",
+      "description": "High-impact neon flex and backlit 3D acrylic signage engineered for storefronts, cafes, modern studios, and exhibition booths.",
+      "variants": [
+        {
+          "thickness": "12\" Diameter (Warm Gold 12V)",
+          "price": 1899
+        },
+        {
+          "thickness": "18\" Diameter (Warm Gold 12V)",
+          "price": 2999
+        },
+        {
+          "thickness": "24\" Diameter (Dual Halo Glow)",
+          "price": 4499
+        }
+      ],
+      "minPrice": 1899,
+      "maxPrice": 4499,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "badge": "New Arrival",
+      "badgeType": "blue",
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "led signage",
+        "neon sign",
+        "backlit plaque",
+        "room decor gift",
+        "custom neon"
+      ]
+    },
+    {
+      "id": "led-signage-2",
+      "name": "Ayat al-Kursi Dual-Tone Illuminated Crescent LED Plaque",
+      "category": "LED Signage",
+      "categorySlug": "led-signage",
+      "image": "/led_ayat_kursi_1789384103815.jpg",
+      "description": "High-impact neon flex and backlit 3D acrylic signage engineered for storefronts, cafes, modern studios, and exhibition booths.",
+      "variants": [
+        {
+          "thickness": "12\" Diameter (Warm Gold 12V)",
+          "price": 1899
+        },
+        {
+          "thickness": "18\" Diameter (Warm Gold 12V)",
+          "price": 2999
+        },
+        {
+          "thickness": "24\" Diameter (Dual Halo Glow)",
+          "price": 4499
+        }
+      ],
+      "minPrice": 1899,
+      "maxPrice": 4499,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "led signage",
+        "neon sign",
+        "backlit plaque",
+        "room decor gift",
+        "custom neon"
+      ]
+    },
+    {
+      "id": "led-signage-3",
+      "name": "Neon-Flex Glow Custom Signage",
+      "category": "LED Signage",
+      "categorySlug": "led-signage",
+      "image": "/sign.png",
+      "description": "High-impact neon flex and backlit 3D acrylic signage engineered for storefronts, cafes, modern studios, and exhibition booths.",
+      "variants": [
+        {
+          "thickness": "12\" Diameter (Warm Gold 12V)",
+          "price": 1899
+        },
+        {
+          "thickness": "18\" Diameter (Warm Gold 12V)",
+          "price": 2999
+        },
+        {
+          "thickness": "24\" Diameter (Dual Halo Glow)",
+          "price": 4499
+        }
+      ],
+      "minPrice": 1899,
+      "maxPrice": 4499,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "led signage",
+        "neon sign",
+        "backlit plaque",
+        "room decor gift",
+        "custom neon"
+      ]
+    },
+    {
+      "id": "led-signage-4",
+      "name": "Backlit 3D Acrylic Boutique Lettering",
+      "category": "LED Signage",
+      "categorySlug": "led-signage",
+      "image": "/product9.png",
+      "description": "High-impact neon flex and backlit 3D acrylic signage engineered for storefronts, cafes, modern studios, and exhibition booths.",
+      "variants": [
+        {
+          "thickness": "12\" Diameter (Warm Gold 12V)",
+          "price": 1899
+        },
+        {
+          "thickness": "18\" Diameter (Warm Gold 12V)",
+          "price": 2999
+        },
+        {
+          "thickness": "24\" Diameter (Dual Halo Glow)",
+          "price": 4499
+        }
+      ],
+      "minPrice": 1899,
+      "maxPrice": 4499,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "led signage",
+        "neon sign",
+        "backlit plaque",
+        "room decor gift",
+        "custom neon"
+      ]
+    },
+    {
+      "id": "led-signage-5",
+      "name": "Edge-Lit Acrylic Floating Logo Plaque",
+      "category": "LED Signage",
+      "categorySlug": "led-signage",
+      "image": "/product10.png",
+      "description": "High-impact neon flex and backlit 3D acrylic signage engineered for storefronts, cafes, modern studios, and exhibition booths.",
+      "variants": [
+        {
+          "thickness": "12\" Diameter (Warm Gold 12V)",
+          "price": 1899
+        },
+        {
+          "thickness": "18\" Diameter (Warm Gold 12V)",
+          "price": 2999
+        },
+        {
+          "thickness": "24\" Diameter (Dual Halo Glow)",
+          "price": 4499
+        }
+      ],
+      "minPrice": 1899,
+      "maxPrice": 4499,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "led signage",
+        "neon sign",
+        "backlit plaque",
+        "room decor gift",
+        "custom neon"
+      ]
+    },
+    {
+      "id": "acrylic-clocks-1",
+      "name": "Monochrome Silhouette Dual-Tone Acrylic Clock (Roman Gold)",
+      "category": "Acrylic Clocks",
+      "categorySlug": "acrylic-clocks",
+      "image": "/acrylic_wall_clock_1789385759022.jpg",
+      "description": "Precision laser-crafted dual-tone acrylic wall clocks featuring artistic optical silhouettes, embossed brushed gold Roman numerals, and silent sweep quartz movements.",
+      "variants": [
+        {
+          "thickness": "12\" (30cm) Silent Quartz",
+          "price": 1299
+        },
+        {
+          "thickness": "16\" (40cm) Silent Quartz",
+          "price": 1899
+        },
+        {
+          "thickness": "20\" (50cm) Silent Quartz",
+          "price": 2699
+        }
+      ],
+      "minPrice": 1299,
+      "maxPrice": 2699,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "badge": "New Craft",
+      "badgeType": "orange",
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "acrylic clocks",
+        "wall clocks",
+        "silent quartz",
+        "personalized gift",
+        "anniversary gift",
+        "romantic gift",
+        "silhouette clock",
+        "home decor",
+        "acrylic clock",
+        "wall clock",
+        "birthday gift",
+        "couple gift"
+      ]
+    },
+    {
+      "id": "acrylic-clocks-2",
+      "name": "Hexagonal Floating Clear Acrylic Silhouette Clock (Rose Gold)",
+      "category": "Acrylic Clocks",
+      "categorySlug": "acrylic-clocks",
+      "image": "/acrylic_hex_clock_1789386467214.jpg",
+      "description": "Precision laser-crafted dual-tone acrylic wall clocks featuring artistic optical silhouettes, embossed brushed gold Roman numerals, and silent sweep quartz movements.",
+      "variants": [
+        {
+          "thickness": "12\" (30cm) Silent Quartz",
+          "price": 1299
+        },
+        {
+          "thickness": "16\" (40cm) Silent Quartz",
+          "price": 1899
+        },
+        {
+          "thickness": "20\" (50cm) Silent Quartz",
+          "price": 2699
+        }
+      ],
+      "minPrice": 1299,
+      "maxPrice": 2699,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "keywords": [
+        "gift your favorite person",
+        "gift yout favaorite person",
+        "gift",
+        "favorite person",
+        "acrylic clocks",
+        "wall clocks",
+        "silent quartz",
+        "personalized gift",
+        "anniversary gift",
+        "romantic gift",
+        "silhouette clock",
+        "home decor",
+        "acrylic clock",
+        "hexagonal clock",
+        "rose gold clock",
+        "floating clock",
+        "luxury gift"
+      ]
+    }
+  ]
+}

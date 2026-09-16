@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Art",
+  "description": "Custom Cut. Delivered Fast. Premium CNC-cut architectural name boards, laser-cut craft, LED signage, and bespoke acrylic designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

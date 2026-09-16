@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: #EBE8E1;
+    background-image: radial-gradient(at 12% 12%, #FAF7F2 0px, transparent 65%),
+                      radial-gradient(at 88% 88%, #DDD7CD 0px, transparent 65%);
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+  }
+}
+
+.soft-border {
+  border: 1px solid rgba(255, 255, 255, 0.7);
+}
+
+.shadow-soft-card {
+  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.04), 0 0 1px 1px rgba(255, 255, 255, 0.9) inset;
+}
+
+.shadow-floating-element {
+  box-shadow: 0 12px 28px -6px rgba(0, 0, 0, 0.08), 0 0 0 1px rgba(255, 255, 255, 0.8) inset;
+}
+
+.shadow-swatch {
+  box-shadow: 0 6px 14px -3px rgba(0, 0, 0, 0.18);
+}
