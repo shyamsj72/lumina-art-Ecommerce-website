@@ -22,6 +22,18 @@ Lumina Art is a state-of-the-art e-commerce platform designed for an architectur
 
 Unlike traditional e-commerce stores, Lumina Art is optimized for **high-touch, custom manufacturing**. Instead of a generic payment gateway, it leverages a **WhatsApp-integrated checkout flow**, allowing customers to build their cart and instantly send a structured order inquiry to the sales team for personalized pricing and fulfillment.
 
+## 📸 UI Layout & Screenshots
+
+Here is a glimpse of the Lumina Art interface:
+
+<div align="center">
+  <img src="docs/home.png" alt="Lumina Art Home Dashboard" width="800" />
+  <p><i>The main showroom dashboard featuring dynamic product cards and categories.</i></p>
+
+  <img src="docs/ai.png" alt="Lumina AI Chatbot" width="800" />
+  <p><i>The Lumina AI Chatbot assisting a customer with product inquiries.</i></p>
+</div>
+
 ## ✨ Key Features
 
 - 🛍️ **Immersive Product Catalog**: Browse products by discipline (CNC, Laser, LED, Wood), complete with responsive galleries and dynamic pricing variants.
