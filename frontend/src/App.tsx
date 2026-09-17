@@ -13,8 +13,8 @@ import { WishlistModal } from './components/WishlistModal';
 import { ReviewsModal } from './components/ReviewsModal';
 import { LuminaChatbot } from './components/LuminaChatbot';
 
-const CART_STORAGE_KEY = 'lumina_art_cart_v1';
-const WISHLIST_STORAGE_KEY = 'lumina_art_wishlist_v1';
+const CART_STORAGE_KEY = 'lumina_art_cart_v2';
+const WISHLIST_STORAGE_KEY = 'lumina_art_wishlist_v2';
 
 export default function App() {
   const [currentScreen, setCurrentScreen] = useState<ScreenType>('home');
