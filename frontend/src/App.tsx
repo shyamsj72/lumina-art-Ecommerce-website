@@ -72,7 +72,7 @@ export default function App() {
     } catch {
       // Fallback
     }
-    return ['nameboard-1', 'nameboard-3', 'sign-1'];
+    return [];
   });
 
   // Sync cart to localStorage

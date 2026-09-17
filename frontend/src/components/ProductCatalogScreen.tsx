@@ -10,6 +10,7 @@ import {
   Layers,
   Check,
   Gift,
+  ShoppingBag,
 } from 'lucide-react';
 import { CategoryData, Product, ProductVariant } from '../types';
 import { ProductImage } from './ProductImage';
@@ -397,13 +398,19 @@ export const ProductCatalogScreen: React.FC<ProductCatalogScreenProps> = ({
                 {/* Add to Cart button */}
                 <button
                   onClick={(e) => handleQuickAddToCart(product, e)}
-                  className="p-2 rounded-full bg-white hover:bg-slate-100 text-slate-800 shadow-xs border border-slate-200/70 transition-transform active:scale-95 cursor-pointer"
-                  title="Add standard 2mm variant to cart"
+                  className="flex-1 bg-[#DCF763] hover:bg-[#d0ed53] text-slate-950 py-2 px-3 rounded-full text-xs font-black flex items-center justify-center gap-1.5 shadow-xs transition-transform active:scale-95 cursor-pointer"
+                  title="Add standard variant to cart"
                 >
                   {addedNotice === product.id ? (
-                    <Check className="w-4 h-4 text-emerald-600" />
+                    <>
+                      <Check className="w-3.5 h-3.5 text-emerald-700" />
+                      <span>Added</span>
+                    </>
                   ) : (
-                    <ArrowUpRight className="w-4 h-4" />
+                    <>
+                      <ShoppingBag className="w-3.5 h-3.5" />
+                      <span>Add to Cart</span>
+                    </>
                   )}
                 </button>
               </div>
