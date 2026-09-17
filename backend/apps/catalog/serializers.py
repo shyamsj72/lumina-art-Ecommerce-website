@@ -14,9 +14,23 @@ class ProductVariantSerializer(serializers.ModelSerializer):
 
 
 class ProductImageSerializer(serializers.ModelSerializer):
+    image = serializers.SerializerMethodField()
+
     class Meta:
         model = ProductImage
         fields = ['image', 'is_primary']
+
+    def get_image(self, obj):
+        from django.conf import settings
+        import os
+        if obj.image:
+            if not settings.DEBUG and not getattr(settings, 'CLOUDINARY_URL', None):
+                return f"/{os.path.basename(obj.image.name)}"
+            request = self.context.get('request')
+            if request:
+                return request.build_absolute_uri(obj.image.url)
+            return obj.image.url
+        return None
 
 
 class ProductSerializer(serializers.ModelSerializer):
@@ -39,6 +53,10 @@ class ProductSerializer(serializers.ModelSerializer):
     def get_image(self, obj):
         img = obj.primary_image
         if img and img.image:
+            from django.conf import settings
+            import os
+            if not settings.DEBUG and not getattr(settings, 'CLOUDINARY_URL', None):
+                return f"/{os.path.basename(img.image.name)}"
             request = self.context.get('request')
             if request:
                 return request.build_absolute_uri(img.image.url)
