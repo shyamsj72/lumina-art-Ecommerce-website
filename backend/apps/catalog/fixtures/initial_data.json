@@ -1,0 +1,1537 @@
+[
+{
+  "model": "catalog.category",
+  "pk": 1,
+  "fields": {
+    "name": "Name Boards",
+    "slug": "name-boards",
+    "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+    "icon": "Layers",
+    "accent_color": "#DCF763",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.category",
+  "pk": 2,
+  "fields": {
+    "name": "CNC Jali Cutting",
+    "slug": "cnc-jali-cutting",
+    "description": "Architectural CNC jali screens & decorative lattice wall partitions custom-machined for residences, temples, and luxury interiors.",
+    "icon": "Grid",
+    "accent_color": "#FBBF24",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.category",
+  "pk": 3,
+  "fields": {
+    "name": "Laser Cutting",
+    "slug": "laser-cutting",
+    "description": "Micro-precision laser cut acrylic keychains, gift boxes, industrial templates, and artistic silhouette keepsakes.",
+    "icon": "Scissors",
+    "accent_color": "#38BDF8",
+    "order": 2
+  }
+},
+{
+  "model": "catalog.category",
+  "pk": 4,
+  "fields": {
+    "name": "Wood & Acrylic Craft",
+    "slug": "wood-acrylic-craft",
+    "description": "Handcrafted blend of rich organic hardwoods and glossy cast acrylics for bespoke tabletop organizers, awards, and artistic wall decor.",
+    "icon": "Sparkles",
+    "accent_color": "#FB923C",
+    "order": 3
+  }
+},
+{
+  "model": "catalog.category",
+  "pk": 5,
+  "fields": {
+    "name": "LED Signage",
+    "slug": "led-signage",
+    "description": "High-impact neon flex and backlit 3D acrylic signage engineered for storefronts, cafes, modern studios, and exhibition booths.",
+    "icon": "Zap",
+    "accent_color": "#A855F7",
+    "order": 4
+  }
+},
+{
+  "model": "catalog.category",
+  "pk": 6,
+  "fields": {
+    "name": "Acrylic Clocks",
+    "slug": "acrylic-clocks",
+    "description": "Precision laser-crafted dual-tone acrylic wall clocks featuring artistic optical silhouettes, embossed brushed gold Roman numerals, and silent sweep quartz movements.",
+    "icon": "Clock",
+    "accent_color": "#F59E0B",
+    "order": 5
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 1,
+  "fields": {
+    "category": 1,
+    "name": "Live-Edge Wooden Name Board (തെക്കേമഠം)",
+    "slug": "name-boards-1",
+    "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "name boards",
+      "entrance board",
+      "housewarming gift",
+      "family gift",
+      "custom nameplate",
+      "wooden board",
+      "acrylic sign"
+    ],
+    "is_featured": true,
+    "is_best_seller": false,
+    "badge": "Featured Choice",
+    "badge_type": "lime",
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.429Z",
+    "updated_at": "2026-09-16T05:26:11.429Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 2,
+  "fields": {
+    "category": 1,
+    "name": "Black Acrylic Family Name Board (സ്നേഹനിലയം)",
+    "slug": "name-boards-2",
+    "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "name boards",
+      "entrance board",
+      "housewarming gift",
+      "family gift",
+      "custom nameplate",
+      "wooden board",
+      "acrylic sign"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.465Z",
+    "updated_at": "2026-09-16T05:26:11.465Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 3,
+  "fields": {
+    "category": 1,
+    "name": "Two-Tone Teak & Om Wooden Board (ആദിശിവം)",
+    "slug": "name-boards-3",
+    "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "name boards",
+      "entrance board",
+      "housewarming gift",
+      "family gift",
+      "custom nameplate",
+      "wooden board",
+      "acrylic sign"
+    ],
+    "is_featured": false,
+    "is_best_seller": true,
+    "badge": "Best Seller",
+    "badge_type": "orange",
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.480Z",
+    "updated_at": "2026-09-16T05:26:11.480Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 4,
+  "fields": {
+    "category": 1,
+    "name": "Lord Krishna Gokulam Gold Inlay Board (Gokulam)",
+    "slug": "name-boards-4",
+    "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "name boards",
+      "entrance board",
+      "housewarming gift",
+      "family gift",
+      "custom nameplate",
+      "wooden board",
+      "acrylic sign"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.495Z",
+    "updated_at": "2026-09-16T05:26:11.495Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 5,
+  "fields": {
+    "category": 1,
+    "name": "Golden Brass House Crest (Baith Al Nihmath)",
+    "slug": "name-boards-5",
+    "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "name boards",
+      "entrance board",
+      "housewarming gift",
+      "family gift",
+      "custom nameplate",
+      "wooden board",
+      "acrylic sign"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.511Z",
+    "updated_at": "2026-09-16T05:26:11.511Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 6,
+  "fields": {
+    "category": 1,
+    "name": "Rustic Wooden Christ & Dove Plaque (കല്ലടയിൽ)",
+    "slug": "name-boards-6",
+    "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "name boards",
+      "entrance board",
+      "housewarming gift",
+      "family gift",
+      "custom nameplate",
+      "wooden board",
+      "acrylic sign"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.524Z",
+    "updated_at": "2026-09-16T05:26:11.524Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 7,
+  "fields": {
+    "category": 1,
+    "name": "Cottage Silhouette Wooden Board (അനിൽ കെ സജി)",
+    "slug": "name-boards-7",
+    "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "name boards",
+      "entrance board",
+      "housewarming gift",
+      "family gift",
+      "custom nameplate",
+      "wooden board",
+      "acrylic sign"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.537Z",
+    "updated_at": "2026-09-16T05:26:11.537Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 8,
+  "fields": {
+    "category": 1,
+    "name": "Trishul Motif Live-Edge Plaque (ദേവികൃപ)",
+    "slug": "name-boards-8",
+    "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "name boards",
+      "entrance board",
+      "housewarming gift",
+      "family gift",
+      "custom nameplate",
+      "wooden board",
+      "acrylic sign"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.552Z",
+    "updated_at": "2026-09-16T05:26:11.552Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 9,
+  "fields": {
+    "category": 1,
+    "name": "Gabled Cottage Wood Sign (Sree Chithira)",
+    "slug": "name-boards-9",
+    "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "name boards",
+      "entrance board",
+      "housewarming gift",
+      "family gift",
+      "custom nameplate",
+      "wooden board",
+      "acrylic sign"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.568Z",
+    "updated_at": "2026-09-16T05:26:11.568Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 10,
+  "fields": {
+    "category": 1,
+    "name": "Botanical Rose Floral Plate (Mohabbat)",
+    "slug": "name-boards-10",
+    "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "name boards",
+      "entrance board",
+      "housewarming gift",
+      "family gift",
+      "custom nameplate",
+      "wooden board",
+      "acrylic sign"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.582Z",
+    "updated_at": "2026-09-16T05:26:11.582Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 11,
+  "fields": {
+    "category": 1,
+    "name": "Traditional Kerala Roof Board (Shifana Manzil)",
+    "slug": "name-boards-11",
+    "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "name boards",
+      "entrance board",
+      "housewarming gift",
+      "family gift",
+      "custom nameplate",
+      "wooden board",
+      "acrylic sign"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.599Z",
+    "updated_at": "2026-09-16T05:26:11.599Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 12,
+  "fields": {
+    "category": 1,
+    "name": "Glossy Gold Arabic Calligraphy (ما شاء الله)",
+    "slug": "name-boards-12",
+    "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "name boards",
+      "entrance board",
+      "housewarming gift",
+      "family gift",
+      "custom nameplate",
+      "wooden board",
+      "acrylic sign"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.613Z",
+    "updated_at": "2026-09-16T05:26:11.613Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 13,
+  "fields": {
+    "category": 1,
+    "name": "Royal Oval Walnut & Gold Crest (കുടുംബം)",
+    "slug": "name-boards-13",
+    "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "name boards",
+      "entrance board",
+      "housewarming gift",
+      "family gift",
+      "custom nameplate",
+      "wooden board",
+      "acrylic sign"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.630Z",
+    "updated_at": "2026-09-16T05:26:11.630Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 14,
+  "fields": {
+    "category": 1,
+    "name": "Architectural Dual-Layer Acrylic Sign",
+    "slug": "name-boards-14",
+    "description": "Premium custom CNC-cut name board. High quality, weather-resistant, and beautifully designed to make your entrance stand out.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "name boards",
+      "entrance board",
+      "housewarming gift",
+      "family gift",
+      "custom nameplate",
+      "wooden board",
+      "acrylic sign"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.654Z",
+    "updated_at": "2026-09-16T05:26:11.654Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 15,
+  "fields": {
+    "category": 2,
+    "name": "CNC Jali Architectural Panel - Design 1",
+    "slug": "cnc-jali-cutting-1",
+    "description": "Architectural CNC jali screens & decorative lattice wall partitions custom-machined for residences, temples, and luxury interiors.",
+    "keywords": [
+      "cnc jali",
+      "lattice screen",
+      "partition panel",
+      "interior screen",
+      "architectural decor"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.671Z",
+    "updated_at": "2026-09-16T05:26:11.672Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 16,
+  "fields": {
+    "category": 2,
+    "name": "Geometric CNC Lattice Screen - Design 2",
+    "slug": "cnc-jali-cutting-2",
+    "description": "Architectural CNC jali screens & decorative lattice wall partitions custom-machined for residences, temples, and luxury interiors.",
+    "keywords": [
+      "cnc jali",
+      "lattice screen",
+      "partition panel",
+      "interior screen",
+      "architectural decor"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.690Z",
+    "updated_at": "2026-09-16T05:26:11.690Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 17,
+  "fields": {
+    "category": 2,
+    "name": "Floral Motif CNC Partition - Design 3",
+    "slug": "cnc-jali-cutting-3",
+    "description": "Architectural CNC jali screens & decorative lattice wall partitions custom-machined for residences, temples, and luxury interiors.",
+    "keywords": [
+      "cnc jali",
+      "lattice screen",
+      "partition panel",
+      "interior screen",
+      "architectural decor"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.708Z",
+    "updated_at": "2026-09-16T05:26:11.708Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 20,
+  "fields": {
+    "category": 3,
+    "name": "Precision Laser Cut Desk Emblem",
+    "slug": "laser-cutting-3",
+    "description": "Micro-precision laser cut acrylic keychains, gift boxes, industrial templates, and artistic silhouette keepsakes.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "laser cutting",
+      "keepsake box",
+      "custom keychain",
+      "engraved gift",
+      "desk emblem"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.763Z",
+    "updated_at": "2026-09-16T05:26:11.763Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 21,
+  "fields": {
+    "category": 3,
+    "name": "Decorative Acrylic Mandala Cutout",
+    "slug": "laser-cutting-4",
+    "description": "Micro-precision laser cut acrylic keychains, gift boxes, industrial templates, and artistic silhouette keepsakes.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "laser cutting",
+      "keepsake box",
+      "custom keychain",
+      "engraved gift",
+      "desk emblem"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.784Z",
+    "updated_at": "2026-09-16T05:26:11.784Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 22,
+  "fields": {
+    "category": 4,
+    "name": "Dual-Layer Acrylic & Teak Desk Organizer",
+    "slug": "wood-acrylic-craft-1",
+    "description": "Handcrafted blend of rich organic hardwoods and glossy cast acrylics for bespoke tabletop organizers, awards, and artistic wall decor.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "wood craft",
+      "tabletop memento",
+      "desk organizer",
+      "anniversary gift",
+      "personalized gift"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.809Z",
+    "updated_at": "2026-09-16T05:26:11.809Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 25,
+  "fields": {
+    "category": 5,
+    "name": "99 Names of Allah Concentric Halo LED Sign (Asma-ul-Husna)",
+    "slug": "led-signage-1",
+    "description": "High-impact neon flex and backlit 3D acrylic signage engineered for storefronts, cafes, modern studios, and exhibition booths.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "led signage",
+      "neon sign",
+      "backlit plaque",
+      "room decor gift",
+      "custom neon"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": "New Arrival",
+    "badge_type": "blue",
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.847Z",
+    "updated_at": "2026-09-16T05:26:11.847Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 26,
+  "fields": {
+    "category": 5,
+    "name": "Ayat al-Kursi Dual-Tone Illuminated Crescent LED Plaque",
+    "slug": "led-signage-2",
+    "description": "High-impact neon flex and backlit 3D acrylic signage engineered for storefronts, cafes, modern studios, and exhibition booths.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "led signage",
+      "neon sign",
+      "backlit plaque",
+      "room decor gift",
+      "custom neon"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.879Z",
+    "updated_at": "2026-09-16T05:26:11.879Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 30,
+  "fields": {
+    "category": 6,
+    "name": "Monochrome Silhouette Dual-Tone Acrylic Clock (Roman Gold)",
+    "slug": "acrylic-clocks-1",
+    "description": "Precision laser-crafted dual-tone acrylic wall clocks featuring artistic optical silhouettes, embossed brushed gold Roman numerals, and silent sweep quartz movements.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "acrylic clocks",
+      "wall clocks",
+      "silent quartz",
+      "personalized gift",
+      "anniversary gift",
+      "romantic gift",
+      "silhouette clock",
+      "home decor",
+      "acrylic clock",
+      "wall clock",
+      "birthday gift",
+      "couple gift"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": "New Craft",
+    "badge_type": "orange",
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.931Z",
+    "updated_at": "2026-09-16T05:26:11.931Z"
+  }
+},
+{
+  "model": "catalog.product",
+  "pk": 31,
+  "fields": {
+    "category": 6,
+    "name": "Hexagonal Floating Clear Acrylic Silhouette Clock (Rose Gold)",
+    "slug": "acrylic-clocks-2",
+    "description": "Precision laser-crafted dual-tone acrylic wall clocks featuring artistic optical silhouettes, embossed brushed gold Roman numerals, and silent sweep quartz movements.",
+    "keywords": [
+      "gift your favorite person",
+      "gift yout favaorite person",
+      "gift",
+      "favorite person",
+      "acrylic clocks",
+      "wall clocks",
+      "silent quartz",
+      "personalized gift",
+      "anniversary gift",
+      "romantic gift",
+      "silhouette clock",
+      "home decor",
+      "acrylic clock",
+      "hexagonal clock",
+      "rose gold clock",
+      "floating clock",
+      "luxury gift"
+    ],
+    "is_featured": false,
+    "is_best_seller": false,
+    "badge": null,
+    "badge_type": null,
+    "is_active": true,
+    "created_at": "2026-09-16T05:26:11.952Z",
+    "updated_at": "2026-09-16T05:26:11.952Z"
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 1,
+  "fields": {
+    "product": 1,
+    "thickness": "2mm",
+    "price": "549.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 2,
+  "fields": {
+    "product": 1,
+    "thickness": "4mm",
+    "price": "850.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 3,
+  "fields": {
+    "product": 2,
+    "thickness": "2mm",
+    "price": "549.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 4,
+  "fields": {
+    "product": 2,
+    "thickness": "4mm",
+    "price": "850.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 5,
+  "fields": {
+    "product": 3,
+    "thickness": "2mm",
+    "price": "549.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 6,
+  "fields": {
+    "product": 3,
+    "thickness": "4mm",
+    "price": "850.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 7,
+  "fields": {
+    "product": 4,
+    "thickness": "2mm",
+    "price": "549.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 8,
+  "fields": {
+    "product": 4,
+    "thickness": "4mm",
+    "price": "850.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 9,
+  "fields": {
+    "product": 5,
+    "thickness": "2mm",
+    "price": "549.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 10,
+  "fields": {
+    "product": 5,
+    "thickness": "4mm",
+    "price": "850.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 11,
+  "fields": {
+    "product": 6,
+    "thickness": "2mm",
+    "price": "549.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 12,
+  "fields": {
+    "product": 6,
+    "thickness": "4mm",
+    "price": "850.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 13,
+  "fields": {
+    "product": 7,
+    "thickness": "2mm",
+    "price": "549.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 14,
+  "fields": {
+    "product": 7,
+    "thickness": "4mm",
+    "price": "850.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 15,
+  "fields": {
+    "product": 8,
+    "thickness": "2mm",
+    "price": "549.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 16,
+  "fields": {
+    "product": 8,
+    "thickness": "4mm",
+    "price": "850.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 17,
+  "fields": {
+    "product": 9,
+    "thickness": "2mm",
+    "price": "549.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 18,
+  "fields": {
+    "product": 9,
+    "thickness": "4mm",
+    "price": "850.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 19,
+  "fields": {
+    "product": 10,
+    "thickness": "2mm",
+    "price": "549.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 20,
+  "fields": {
+    "product": 10,
+    "thickness": "4mm",
+    "price": "850.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 21,
+  "fields": {
+    "product": 11,
+    "thickness": "2mm",
+    "price": "549.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 22,
+  "fields": {
+    "product": 11,
+    "thickness": "4mm",
+    "price": "850.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 23,
+  "fields": {
+    "product": 12,
+    "thickness": "2mm",
+    "price": "549.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 24,
+  "fields": {
+    "product": 12,
+    "thickness": "4mm",
+    "price": "850.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 25,
+  "fields": {
+    "product": 13,
+    "thickness": "2mm",
+    "price": "549.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 26,
+  "fields": {
+    "product": 13,
+    "thickness": "4mm",
+    "price": "850.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 27,
+  "fields": {
+    "product": 14,
+    "thickness": "2mm",
+    "price": "549.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 28,
+  "fields": {
+    "product": 14,
+    "thickness": "4mm",
+    "price": "850.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 29,
+  "fields": {
+    "product": 15,
+    "thickness": "6mm",
+    "price": "1250.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 30,
+  "fields": {
+    "product": 15,
+    "thickness": "12mm",
+    "price": "2200.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 31,
+  "fields": {
+    "product": 16,
+    "thickness": "6mm",
+    "price": "1250.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 32,
+  "fields": {
+    "product": 16,
+    "thickness": "12mm",
+    "price": "2200.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 33,
+  "fields": {
+    "product": 17,
+    "thickness": "6mm",
+    "price": "1250.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 34,
+  "fields": {
+    "product": 17,
+    "thickness": "12mm",
+    "price": "2200.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 39,
+  "fields": {
+    "product": 20,
+    "thickness": "3mm",
+    "price": "299.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 40,
+  "fields": {
+    "product": 20,
+    "thickness": "5mm",
+    "price": "499.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 41,
+  "fields": {
+    "product": 21,
+    "thickness": "3mm",
+    "price": "299.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 42,
+  "fields": {
+    "product": 21,
+    "thickness": "5mm",
+    "price": "499.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 43,
+  "fields": {
+    "product": 22,
+    "thickness": "4mm",
+    "price": "699.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 44,
+  "fields": {
+    "product": 22,
+    "thickness": "8mm",
+    "price": "1150.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 49,
+  "fields": {
+    "product": 25,
+    "thickness": "12\" Diameter (Warm Gold 12V)",
+    "price": "1899.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 50,
+  "fields": {
+    "product": 25,
+    "thickness": "18\" Diameter (Warm Gold 12V)",
+    "price": "2999.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 51,
+  "fields": {
+    "product": 25,
+    "thickness": "24\" Diameter (Dual Halo Glow)",
+    "price": "4499.00",
+    "order": 2
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 52,
+  "fields": {
+    "product": 26,
+    "thickness": "12\" Diameter (Warm Gold 12V)",
+    "price": "1899.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 53,
+  "fields": {
+    "product": 26,
+    "thickness": "18\" Diameter (Warm Gold 12V)",
+    "price": "2999.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 54,
+  "fields": {
+    "product": 26,
+    "thickness": "24\" Diameter (Dual Halo Glow)",
+    "price": "4499.00",
+    "order": 2
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 64,
+  "fields": {
+    "product": 30,
+    "thickness": "12\" (30cm) Silent Quartz",
+    "price": "1299.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 65,
+  "fields": {
+    "product": 30,
+    "thickness": "16\" (40cm) Silent Quartz",
+    "price": "1899.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 66,
+  "fields": {
+    "product": 30,
+    "thickness": "20\" (50cm) Silent Quartz",
+    "price": "2699.00",
+    "order": 2
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 67,
+  "fields": {
+    "product": 31,
+    "thickness": "12\" (30cm) Silent Quartz",
+    "price": "1299.00",
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 68,
+  "fields": {
+    "product": 31,
+    "thickness": "16\" (40cm) Silent Quartz",
+    "price": "1899.00",
+    "order": 1
+  }
+},
+{
+  "model": "catalog.productvariant",
+  "pk": 69,
+  "fields": {
+    "product": 31,
+    "thickness": "20\" (50cm) Silent Quartz",
+    "price": "2699.00",
+    "order": 2
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 1,
+  "fields": {
+    "product": 1,
+    "image": "products/2026/09/nameboard1.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 2,
+  "fields": {
+    "product": 2,
+    "image": "products/2026/09/nameboard2.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 3,
+  "fields": {
+    "product": 3,
+    "image": "products/2026/09/nameboard3.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 4,
+  "fields": {
+    "product": 4,
+    "image": "products/2026/09/nameboard4.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 5,
+  "fields": {
+    "product": 5,
+    "image": "products/2026/09/nameboard5.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 6,
+  "fields": {
+    "product": 6,
+    "image": "products/2026/09/nameboard6.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 7,
+  "fields": {
+    "product": 7,
+    "image": "products/2026/09/nameboard7.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 8,
+  "fields": {
+    "product": 8,
+    "image": "products/2026/09/nameboard8.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 9,
+  "fields": {
+    "product": 9,
+    "image": "products/2026/09/nameboard9.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 10,
+  "fields": {
+    "product": 10,
+    "image": "products/2026/09/nameboard10.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 11,
+  "fields": {
+    "product": 11,
+    "image": "products/2026/09/nameboard11.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 12,
+  "fields": {
+    "product": 12,
+    "image": "products/2026/09/nameboard12.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 13,
+  "fields": {
+    "product": 13,
+    "image": "products/2026/09/kudumbam_royal_oval_1789380588818.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 14,
+  "fields": {
+    "product": 14,
+    "image": "products/2026/09/nameboard14.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 15,
+  "fields": {
+    "product": 15,
+    "image": "products/2026/09/product1.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 16,
+  "fields": {
+    "product": 16,
+    "image": "products/2026/09/product2.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 17,
+  "fields": {
+    "product": 17,
+    "image": "products/2026/09/product3.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 20,
+  "fields": {
+    "product": 20,
+    "image": "products/2026/09/product4.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 21,
+  "fields": {
+    "product": 21,
+    "image": "products/2026/09/product5.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 22,
+  "fields": {
+    "product": 22,
+    "image": "products/2026/09/product6.png",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 23,
+  "fields": {
+    "product": 25,
+    "image": "products/2026/09/led_names_allah_1789384084474.jpg",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 24,
+  "fields": {
+    "product": 26,
+    "image": "products/2026/09/led_ayat_kursi_1789384103815.jpg",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 26,
+  "fields": {
+    "product": 30,
+    "image": "products/2026/09/acrylic_wall_clock_1789385759022.jpg",
+    "is_primary": true,
+    "order": 0
+  }
+},
+{
+  "model": "catalog.productimage",
+  "pk": 27,
+  "fields": {
+    "product": 31,
+    "image": "products/2026/09/acrylic_hex_clock_1789386467214.jpg",
+    "is_primary": true,
+    "order": 0
+  }
+}
+]
